@@ -32,8 +32,8 @@ module.exports = withPlugins(
   async redirects() {
    return [
     {
-     source: "/discord",
-     destination: "https://discord.gg/uxtSMtd2xZ",
+     source: "/gvc",
+     destination: "https://discord.gg/TG9UvRG4",
      permanent: true,
     },
     {

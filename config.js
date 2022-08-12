@@ -1,10 +1,10 @@
 import Link from "next/link";
 
 export const meta = {
- title: "Igor Kowalczyk",
- author: "Igor Kowalczyk",
- description: "I'm a full-stack developer based in Poland. I have a passion for building web applications and solving problems",
- url: "https://igorkowalczyk.dev",
+ title: "KyleTheDuck",
+ author: "KyleTheDuck",
+ description: "I am a Discord Bot Developer and currently learning TypeScript",
+ url: "https://kyletheduck.ga",
  theme_color: "#5485f2",
  type: "website",
 };
@@ -14,26 +14,26 @@ export const feautures = {
 };
 
 export const header = {
- title: "Igor Kowalczyk",
- subtitle: "Full-stack developer",
- description: "I'm a full-stack developer based in Poland. I have a passion for building web applications and solving problems.",
+ title: "KyleTheDuck",
+ subtitle: "Discord Bot Developer",
+ description: "I am a Discord Bot Developer and a Moderator in Greenville Central. You must be 13+ to join this server and this is a roblox community. https://discord.gg/TG9UvRG4",
  code: {
   default: {
-   user: "igorkowalczyk",
+   user: "kyletheduck",
   },
   lines: [
    {
     command: "contact --discord",
-    user: "igorkowalczyk",
+    user: "KyleTheDuck3#0450",
     response: (
      <>
       + <span className="font-semibold">User:</span>{" "}
-      <Link href="https://discord.com/users/544164729354977282">
-       <a target="_blank">Majonez.exe#2495</a>
+      <Link href="https://discord.com/users/954734383582023811">
+       <a target="_blank">KyleTheDuck3#0450</a>
       </Link>
       <br />+ <span className="font-semibold">Link:</span>{" "}
-      <Link href="https://discord.gg/uxtSMtd2xZ">
-       <a target="_blank">https://discord.gg/uxtSMtd2xZ</a>
+      <Link href="https://discord.gg/TG9UvRG4">
+       <a target="_blank">GVC - https://discord.gg/TG9UvRG4</a>
       </Link>
      </>
     ),
@@ -73,7 +73,7 @@ export const nav = {
 export const contact = {
  links: [
   {
-   href: "mailto:majonezexe@protonmail.com",
+   href: "mailto:kylebsuper@gmail.com",
    title: "Email",
    icon: (
     <svg xmlns="http://www.w3.org/2000/svg" className="mt-[2px] mr-2 h-4 w-4 duration-200 motion-reduce:transition-none" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
