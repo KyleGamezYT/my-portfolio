@@ -38,17 +38,17 @@ module.exports = withPlugins(
     },
     {
      source: "/twitter",
-     destination: "https://twitter.com/majonezexe",
+     destination: "https://twitter.com/KyleTheDuck",
      permanent: true,
     },
     {
      source: "/instagram",
-     destination: "https://www.instagram.com/majonezexe/",
+     destination: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
      permanent: true,
     },
     {
      source: "/arc-sw.js",
-     destination: "https://arc.io/arc-sw.js",
+     destination: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
      permanent: true,
     },
     {
