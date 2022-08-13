@@ -196,7 +196,7 @@ export default function Main({ repositories, user }) {
     <div className="h-full scroll-mt-20 px-6 py-36 pt-24 lg:px-36">
      <div>
       <h3 className="dark:color-black mb-2 bg-gradient-to-r from-[#712af6] to-[#1a8aec] box-decoration-clone bg-clip-text font-poppins text-4xl font-semibold tracking-[-0.03em] duration-300 text-fill-transparent motion-reduce:transition-none dark:from-[#a2facf] dark:to-[#64acff] lg:text-5xl ">Contact me.</h3>
-      <p className="py-1 text-base text-gray-600 dark:text-gray-300">Want to order a project? Or do you just want to stay in touch?</p>
+      <p className="py-1 text-base text-gray-600 dark:text-gray-300">Please Click @ Email on The Left side due to The Form is broken.</p>
      </div>
      <div className="relative">
       <span className="absolute -right-10 top-[90px] z-[-1] fill-black/40 dark:fill-white/40">
