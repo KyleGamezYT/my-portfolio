@@ -119,7 +119,7 @@ export const contact = {
 };
 
 export const social = {
- image: "public/assets/banner.png",
+ image: "public/banner.png",
  github: {
   username: "KyleGamezYT",
   repo: "https://github.com/KyleGamezYT/my-portfolio",
