@@ -4,7 +4,7 @@ export const meta = {
  title: "KyleTheDuck",
  author: "KyleTheDuck",
  description: "I am a Discord Bot Developer and currently learning TypeScript",
- url: "https://kyletheduck.ga",
+ url: "https://kyletheduck.TK",
  theme_color: "#5485f2",
  type: "website",
 };
