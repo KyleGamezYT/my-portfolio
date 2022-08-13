@@ -24,12 +24,12 @@ export const header = {
   lines: [
    {
     command: "contact --discord",
-    user: "KyleTheDuck3#0450",
+    user: "KyleTheDuck3#2022",
     response: (
      <>
       + <span className="font-semibold">User:</span>{" "}
       <Link href="https://discord.com/users/954734383582023811">
-       <a target="_blank">KyleTheDuck3#0450</a>
+       <a target="_blank">KyleTheDuck3#2022</a>
       </Link>
       <br />+ <span className="font-semibold">Link:</span>{" "}
       <Link href="https://discord.gg/TG9UvRG4">
